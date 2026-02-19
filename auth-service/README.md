@@ -35,7 +35,7 @@ Authentication and authorization microservice for the PayFlow platform. Manages 
 - [ ] Logout from all devices (invalidate all refresh tokens for user)
 
 ### Authorization & RBAC
-- [ ] Predefined roles: `ADMIN`, `USER`, `SERVICE`
+- [ ] Predefined roles: `ADMIN`, `USER`
 - [ ] Role assignment on registration (default `USER`)
 - [ ] Admin endpoint to assign / revoke roles
 - [ ] Permission checks based on roles
